@@ -1,4 +1,4 @@
-# Canvas
+# K{O}DE ACADEMY
 Source code for the canvas Animations on Youtube.
 
 You can find all Videos on Youtube.
