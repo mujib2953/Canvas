@@ -1,0 +1,17 @@
+/*
+ * @Author: Mujib Ansari 
+ * @Date: 2018-06-04 08:15:55 
+ * @Last Modified by: Mujib Ansari
+ * @Last Modified time: 2018-06-04 08:17:13
+ */
+body {
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    border: 1px solid red;
+}
